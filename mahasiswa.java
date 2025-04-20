@@ -24,4 +24,4 @@ public class mahasiswa {
         } 
         System.out.println("Mahasiswa dengan NIM " + cari + " tidak ditemukan.");
     }
-}
+} 
